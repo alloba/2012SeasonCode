@@ -1,0 +1,134 @@
+init:
+init:
+Deleting directory C:\Users\Developer\Desktop\DriveTesting\build
+Deleting directory C:\Users\Developer\Desktop\DriveTesting\suite
+Deleting directory C:\Users\Developer\Desktop\DriveTesting\j2meclasses
+clean:
+Created dir: C:\Users\Developer\Desktop\DriveTesting\build
+Compiling 25 source files to C:\Users\Developer\Desktop\DriveTesting\build
+compile:
+Created dir: C:\Users\Developer\Desktop\DriveTesting\j2meclasses
+preverify:
+Created dir: C:\Users\Developer\Desktop\DriveTesting\suite
+Building jar: C:\Users\Developer\Desktop\DriveTesting\suite\DriveTesting_1.0.0.jar
+jar-app:
+CompilerOracle: exclude com/sun/squawk/Method.getParameterTypes
+CompilerOracle: exclude com/sun/squawk/SymbolParser.getSignatureTypeAt
+CompilerOracle: exclude com/sun/squawk/SymbolParser.stripMethods
+[translating suite image [closed: false, parent: squawk] ...]
+### Excluding compile: com.sun.squawk.Method::getParameterTypes
+### Excluding compile: com.sun.squawk.SymbolParser::getSignatureTypeAt
+[Including resource: META-INF/MANIFEST.MF]
+Romizer processed 233 classes and generated 4 files.
+Expanding: C:\Users\Developer\Desktop\DriveTesting\suite\DriveTesting_1.0.0.jar into C:\Users\Developer\Desktop\DriveTesting\suite
+Moving 1 file to C:\Users\Developer\Desktop\DriveTesting\suite
+Moving 1 file to C:\Users\Developer\Desktop\DriveTesting\suite
+Moving 1 file to C:\Users\Developer\Desktop\DriveTesting\suite
+Deleting: C:\Users\Developer\Desktop\DriveTesting\image.suite.api
+Host OS: Windows 7 6.1, 6.1
+Host JVM: Java HotSpot(TM) Client VM 21.0-b17
+Target IP: 10.33.29.2
+Network interfaces on host:
+    802.11g Mini Card Wireless Adapter:  address: 10.33.29.5 netmask: 255.255.255.254
+WARNING: Host is not on same subnet as robot. May not be able to complete all communication with robot.
+Connecting FTP @10.33.29.2
+upgrade:
+Sending local file image.suite
+flashapp:
+deploy:
+init:
+[cRIO] [OTA Server] ********* REBOOTING cRIO *********
+[cRIO] 
+   Waiting for cRIO to reboot (1s)
+   Waiting for cRIO to reboot (2s)
+   Waiting for cRIO to reboot (3s)
+   Waiting for cRIO to reboot (4s)
+   Waiting for cRIO to reboot (5s)
+   Waiting for cRIO to reboot (6s)
+   Waiting for cRIO to reboot (7s)
+   Waiting for cRIO to reboot (8s)
+   Waiting for cRIO to reboot (9s)
+[cRIO] 
+[cRIO] -> * Loading debug.o: debug
+[cRIO] Debugging is up, target server mounted at /tsfs
+[cRIO] 
+[cRIO] 
+[cRIO]                 VxWorks
+[cRIO] 
+[cRIO] Copyright 1984-2006  Wind River Systems, Inc.
+[cRIO] 
+[cRIO]              CPU: MPC5200 -- Wind River Lite5200 BSP.
+[cRIO]     Runtime Name: VxWorks
+[cRIO]  Runtime Version: 6.3
+[cRIO]      BSP version: 2.0/10
+[cRIO]          Created: May 27 2011, 11:02:24
+[cRIO] ED&R Policy Mode: Deployed
+[cRIO]    WDB Comm Type: WDB_COMM_END
+[cRIO]              WDB: Ready.
+[cRIO] 
+[cRIO] * Loading nisysrpc.out: nisysrpc
+[cRIO] * Loading NiRioRpc.out: NiRioRpc
+[cRIO] * Loading nivissvc.out: nivissvc
+[cRIO] * Loading nivision.out: nivision
+[cRIO] NI-RIO Server 4.0.0b8 started successfully.
+[cRIO] task 0xe2f038 (NiRioRpc) deleted: errno=0 (0) status=0 (0)
+[cRIO] * Loading visa32.out: visa32
+[cRIO] * Loading niserial.out: niserial
+[cRIO] * Loading NiFpgaLv.out: NiFpgaLv
+[cRIO] * Loading FRC_FPGA.out: FRC_FPGA
+[cRIO] * Loading FRC_NetworkCommunication.out: FRC_NetworkCommunication
+[cRIO] FRC_NetworkCommunication was compiled from SVN revision 2923
+[cRIO] FPGA Hardware GUID: 0xA14C11BDE4BB64AEF6A86FC52A294CD9
+[cRIO] FPGA Software GUID: 0xA14C11BDE4BB64AEF6A86FC52A294CD9
+[cRIO] FPGA Hardware Version: 2012
+[cRIO] FPGA Software Version: 2012
+[cRIO] FPGA Hardware Revision: 1.6.4
+[cRIO] FPGA Software Revision: 1.6.4
+[cRIO] * Loading FRC_JavaVM.out: FRC_JavaVM
+[cRIO] 
+[cRIO] 
+[cRIO] [OTA Server] Version: 2012 FRC, Jan  5 2012, 17:20:48
+[cRIO] 
+[cRIO] 
+[cRIO] Welcome to LabVIEW Real-Time 11.0rc14
+[cRIO] task 0xddb4c0 (sysapi-rpc) deleted: errno=0 (0) status=0 (0)
+[cRIO] 
+[cRIO] [Squawk VM] Version: 2011 FRC, Nov  5 2011, 14:34:13
+[cRIO] FPGA Hardware GUID: 0xa14c11bde4bb64aef6a86fc52a294cd9
+[cRIO] FPGA Software GUID: 0xa14c11bde4bb64aef6a86fc52a294cd9
+[cRIO] DIO LoopTiming: 260, expecting: 261
+[cRIO] JavaCameraLib was compiled from SVN revision 2962
+[cRIO] javax.microedition.io.ConnectionNotFoundException: The 'c' protocol does not exist
+[cRIO]     at javax.microedition.io.Connector.open(245)
+[cRIO]     at javax.microedition.io.Connector.open(193)
+[cRIO]     at team3329.util.DriverScreen.writeData(DriverScreen.java:45)
+[cRIO]     at team3329.RobotMain.disabledInit(RobotMain.java:81)
+[cRIO]     at edu.wpi.first.wpilibj.IterativeRobot.startCompetition(IterativeRobot.java:102)
+[cRIO]     at edu.wpi.first.wpilibj.RobotBase.startApp(RobotBase.java:156)
+[cRIO]     in virtual method #10 of javax.microedition.midlet.MIDlet(bci=17)
+[cRIO]     at javax.microedition.midlet.MIDletTunnelImpl.callStartApp(64)
+[cRIO]     at com.sun.squawk.imp.MIDletMainWrapper.main(110)
+[cRIO]     in virtual method #95 of com.sun.squawk.Klass(bci=25)
+[cRIO]     at com.sun.squawk.Isolate.run(1506)
+[cRIO]     at java.lang.Thread.run(231)
+[cRIO]     in virtual method #47 of com.sun.squawk.VMThread(bci=42)
+[cRIO]     in static method #3 of com.sun.squawk.VM(bci=6)
+[cRIO] Default IterativeRobot.disabledPeriodic() method... Overload me!
+[cRIO] Default IterativeRobot.disabledContinuous() method... Overload me!
+[cRIO] Default IterativeRobot.teleopContinuous() method... Overload me!
+[cRIO] javax.microedition.io.ConnectionNotFoundException: The 'c' protocol does not exist
+[cRIO]     at javax.microedition.io.Connector.open(245)
+[cRIO]     at javax.microedition.io.Connector.open(193)
+[cRIO]     at team3329.util.DriverScreen.writeData(DriverScreen.java:45)
+[cRIO]     at team3329.RobotMain.disabledInit(RobotMain.java:81)
+[cRIO]     at edu.wpi.first.wpilibj.IterativeRobot.startCompetition(IterativeRobot.java:102)
+[cRIO]     at edu.wpi.first.wpilibj.RobotBase.startApp(RobotBase.java:156)
+[cRIO]     in virtual method #10 of javax.microedition.midlet.MIDlet(bci=17)
+[cRIO]     at javax.microedition.midlet.MIDletTunnelImpl.callStartApp(64)
+[cRIO]     at com.sun.squawk.imp.MIDletMainWrapper.main(110)
+[cRIO]     in virtual method #95 of com.sun.squawk.Klass(bci=25)
+[cRIO]     at com.sun.squawk.Isolate.run(1506)
+[cRIO]     at java.lang.Thread.run(231)
+[cRIO]     in virtual method #47 of com.sun.squawk.VMThread(bci=42)
+[cRIO]     in static method #3 of com.sun.squawk.VM(bci=6)
+BUILD STOPPED (total time: 2 minutes 33 seconds)

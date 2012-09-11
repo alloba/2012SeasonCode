@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?><FCIV>
+<FILE_ENTRY><name>setup.exe</name><MD5>beh9Z8n573cbvapZZTOP9Q==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>setup.ini</name><MD5>c3gEMZ8Bc41z/FHKYGncRA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>nidist.id</name><MD5>GYJg7Fh1QJ05XB+KZp9beA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>patents.txt</name><MD5>50mYRDm3BF/RjU4NQhZmdg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>autorun.inf</name><MD5>GePShw8UBrgHbStXAnNVSQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>autorun.exe</name><MD5>CwZBmmUyB1fREkZRtX4g0g==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\data0009.dll</name><MD5>Ki632hUdt/mB34XuSDAllQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\WindowsInstaller-KB893803-v2-x86.exe</name><MD5>NC95M3dldgrU45LrZ9XtLA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nistdtrans0007.mst</name><MD5>BLecRf8G+Mdqnfo+VShUUA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nistdtrans0012.mst</name><MD5>Mfj+lYsUcX2+yX4JXzkzZg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nistdtrans0017.mst</name><MD5>Vw24/QUC/6Bn9iXNGEDO3g==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nistdtrans0018.mst</name><MD5>pG5wHY3ZNxzVWwwO60mqOQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nistdtrans2052.mst</name><MD5>9v9YX5XgBlVhF9efb64iwA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nistdtransbase.mst</name><MD5>OhJ+0uzo7NwrPWah0JF1Rg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\notify.dll</name><MD5>yI7+aBkwzGGDETn4kXo4HQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\notifyupdates.dll</name><MD5>CqbqQ4Ha/5hDwyngdbfKyA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\MIFSystemUtility.dll</name><MD5>rRnt3SGSb5kQL9RWzXKWCw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\updateInfo.xml</name><MD5>S+jmU9caLxEKL4VjmC9gVg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\niPie.exe</name><MD5>l6+s7S3/GwSHNjzPH7S/4Q==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\merged.cab</name><MD5>F72fnIgNnG4WB+uUJar/Fw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\NI Released License Agreement - English.rtf</name><MD5>geiAHRSwP45HDbnITc0v7A==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\NI Released License Agreement - Spanish.rtf</name><MD5>FbD9Vc77BNXjUzsE12yByg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\NI Released License Agreement - Italian.rtf</name><MD5>rRM4iOQSEDz4CYdOqk7UUA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\NI Released License Agreement - German.rtf</name><MD5>EeRnOJ06apkQZBKhK1Ssiw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\NI Released License Agreement - French.rtf</name><MD5>FPlML4kM7babuQGpdYtH0g==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\NI Released License Agreement - Japanese.rtf</name><MD5>BG2o0G84EU1uhpaVDSbsDw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\NI Released License Agreement - Korean.rtf</name><MD5>24rEWwCj0el0OLQ65pm+xg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\NI Released License Agreement - Simplified Chinese.rtf</name><MD5>hlCLbQQbAzWUyL8AGoscSQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\DotNet 2.0 License Agreement - English.rtf</name><MD5>Kll3Rp5YYKgunE7DytTRHg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\FIRST Team Competition License Agreement - English.rtf</name><MD5>Pt2hqY+gBAfEmua5FwQ+dw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\Cypress PSOC 3 First Touch Kit - English.rtf</name><MD5>gQ7yiyT52yYGRaAJn1x56A==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\XercesLicense.txt</name><MD5>0nPWNhnJrq8Vza92QixPhw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\XercesNotice.txt</name><MD5>c2qn90cIPNAdsZDRlQuZmA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MetaUninstaller\MU\MetaUninstaller.msi</name><MD5>Ylrw4CItxa8s9GFIHP5ECQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MetaUninstaller\MU\MetaUninstallerR1.cab</name><MD5>p7omXJH7VN/2d1h7JQs3oA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MetaUninstaller\MU\MetaUninstaller_mft.cab</name><MD5>SQn6mi7IZI6qL0AAwxpFmw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MDFSupport\MDF\MDFSupport.msi</name><MD5>dRmtidwq3YmbkVL+GxhUrA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MDFSupport\MDF\MDFSupport1.cab</name><MD5>We1vemmm3kBjfiDgMazs5Q==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MDFSupport\MDF\MDFSupport_mft.cab</name><MD5>LE9Upg8Fh2mmkYh69dxsjw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MDFSupport\MDF\EULADepot.msi</name><MD5>+AK6CBu+cnb3Z1QzQuDZqA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MDFSupport\MDF\EULADepo.cab</name><MD5>IJOh+AtOCcTpN/pMxmBdbQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\Cypress\Cypress\d_CypressExtra.msi</name><MD5>s3ZfllW1VX6Rju5EHnIf6g==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\Cypress\Cypress\Cypress.cab</name><MD5>2Komk16SvZdeHWbGjh8eqg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\Cypress\Cypress\d_CypressExtra_mft.cab</name><MD5>oiodhJ+/JiBShiuq9TyMkg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\Cypress\Cypress.wrap\Cypress.wrap.msi</name><MD5>RtI8N7R9EpePf65xuI87Jw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\Cypress\Cypress.wrap\PSoCProgrammer3.12.0.827.msi</name><MD5>XjpLU2Yn/KLEzK8oPXw4Pw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\DotNet20_x86_Installer\DotNet20x86\DotNet20x86.msi</name><MD5>JW88sLvLiK+j5OuNfJJh6Q==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\DotNet20_x86_Installer\DotNet20x86\DotNet20x86_chs.mst</name><MD5>jtU7xOOFx6kXB1I1o/uIGA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\DotNet20_x86_Installer\DotNet20x86\DotNet20x86_cht.mst</name><MD5>e5F77u2yQ5uwB14UHlEMug==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\DotNet20_x86_Installer\DotNet20x86\DotNet20x86_deu.mst</name><MD5>NASJMsHtYOVYiRL8KjNKFg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\DotNet20_x86_Installer\DotNet20x86\DotNet20x86_fra.mst</name><MD5>DP+Rr2785w6e5rDRJT2uEA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\DotNet20_x86_Installer\DotNet20x86\DotNet20x86_jpn.mst</name><MD5>1MEB3+R2S0slf5u8hQbvXw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\DotNet20_x86_Installer\DotNet20x86\DotNet20x86_kor.mst</name><MD5>CPqiUWuPKb1+QalkHg3qJg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\DotNet20_x86_Installer\DotNet20x86\FakeDotNet20x86.msi</name><MD5>Nei2BcwoeUmvpyD0qZ1RRw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\DotNet20_x86_Installer\DotNet20x86\NetFx20SP1_x86.exe</name><MD5>xhER19YjBrmXzn3QSJixyg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\DotNet20_x86_Installer\DotNet20x86\FakeDotNet20x86_chs.mst</name><MD5>jztpKJTy6Ix7yqGTJ9Petw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\DotNet20_x86_Installer\DotNet20x86\FakeDotNet20x86_deu.mst</name><MD5>erijoeWVo/s6yqFx65CdMw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\DotNet20_x86_Installer\DotNet20x86\FakeDotNet20x86_fra.mst</name><MD5>/5I/3iwQqyuUdKosaCeUKA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\DotNet20_x86_Installer\DotNet20x86\FakeDotNet20x86_jpn.mst</name><MD5>0gKtzn7B+6MFYVSr4HKEAw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\DotNet20_x86_Installer\DotNet20x86\FakeDotNet20x86_kor.mst</name><MD5>HwxWXx7Eg5OmtN67TBGTpw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\FRC_DriverStation\FRC_D00\FRC_DriverStation.msi</name><MD5>LMceLek6zXJyJLCZW7zmZg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\FRC_DriverStation\FRC_D00\FRC_D00.cab</name><MD5>UVKbwsahQnF8exvMSJeavg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\FRC_DriverStation\FRC_D00\FRC_DriverStation_mft.cab</name><MD5>IiQX2nRr8KPIEX6dOnVX4g==</MD5></FILE_ENTRY>
+</FCIV>
